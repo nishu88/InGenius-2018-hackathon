@@ -3,7 +3,7 @@ Attendance system using speaker recogniton and speech recognition to avoid proxy
 
 We used two approaches here - HIDDEN MARKOV MODEL APPROACH AND CNN MODEL APPROACH 
 
-#-------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------
 HIDDEN MARKOV MODEL APPROACH 
 Inside the Hidden markov model folder there are multiple files
 
@@ -23,18 +23,18 @@ update_to_db.py is a file which updates the attendance to the database.
 s.txt holds the spakers names.
 Registry holds the attendance of all the days and keeps getting updated.
 
-#--------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------
 
 Inside the folder front end and backend, there is a script, which has all the functions which is used to predict and give attendance.
 It also include a front end in that same script.
 Just run this script after training and properly specifying the path for everything, and it will ask for your voice input and predict who the speaker is among the lost of speakers.
 
-#--------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------
 
 REMEMBER TO CHANGE THE PATH FOR MODELS AND DATASETS BECAUSE MY PATH USED WILL DEFINATELY BE DIFFERENT FROM THE PATH YOU USE.
 
 
-#-------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------
 
 CNN APPROACH
 Run the CNN_TRAIN.py file to run training on your datasets. Put in your training samples in the folder called DATASETS, inside which create a folder with each speakers name and put his/her voices in that particular folder
