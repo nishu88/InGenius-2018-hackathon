@@ -1,5 +1,20 @@
+http://www.ingeniushack.com/
+
+# inGenius, the flagship event of PESITSouth IEEE Computer Society, is an annual 24-hour hackathon.
+  # Event title: 7th Edition ,INGENIUS 2k18 24hr hackathon
+  # Date: 3rd and 4th November, 2018. 
+  # Prize won: 1st place, 40,000 rupees
+
+PESIT South campus has this hackathon every year, called INGENIUS. 
+This year about 250 teams had submitted their ideas and about 100 teams were qualified for the main hack.The hackathon was held in PESIT south campus for a duration of 24 hours, on 3rd and 4th November. 
+The 1st place cash prize was 40,000 rupees,and 2nd place was 20,000 rupees. 
+
+Our team comprised of me(Nishanth D A) and Rajat keshri. We submitted our idea of smart attendance system using speech and speaker recognition system, which prevents proxy.
+Jury was very impressed with our approach and implementation of the idea to the problem and and the future extensions of the project.
+We secured first place in this hackathon, winning 40,000 rupees.
 Attendance system using speaker recogniton and speech recognition to avoid proxy .
 
+---------------------------------------------------------------------------------------------------------------------
 
 We used two approaches here - HIDDEN MARKOV MODEL APPROACH AND CNN MODEL APPROACH 
 
